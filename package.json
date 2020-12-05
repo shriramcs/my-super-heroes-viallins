@@ -1,0 +1,18 @@
+{
+  "name": "my-superheroes-new",
+  "version": "1.0.0",
+  "description": "super heroes list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "sprinlabs",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
+  }
+}
